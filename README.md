@@ -29,7 +29,7 @@ cd Lung-cancer-production
 
 Open the Jupyter Notebook:
 jupyter notebook "Lung cancer.ipynb"
-Follow the instructions in the notebook to perform tumor classification.
+Follow the instructions in the notebook to perform assessment of the risk of lung cancer.
 
 ## Dependencies
 Pandas 1.1.4
