@@ -24,11 +24,11 @@ pip install pandas matplotlib seaborn scikit-learn jupyter
 
 ## Usage
 Clone this repository:
-git clone https://github.com/MZelenovic/Lung-cancer-production.git
+git clone https://github.com/MZelenovic/Lung-cancer-production
 cd Lung-cancer-production
 
 Open the Jupyter Notebook:
-jupyter notebook "Lung cancer prediction.ipynb"
+jupyter notebook "Lung cancer.ipynb"
 Follow the instructions in the notebook to perform tumor classification.
 
 ## Dependencies
